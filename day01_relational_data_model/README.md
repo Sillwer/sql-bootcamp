@@ -59,7 +59,7 @@ People's visit and people's order are different entities and don't contain any c
 
 | Exercise 00: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex00.sql` |
+| Solution file | `ex00.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 
@@ -70,7 +70,7 @@ Please make a select statement which returns all person's names and person's age
 
 | Exercise 01: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex01.sql` |
+| Solution file | `ex01.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 
@@ -80,7 +80,7 @@ Please make a select statement which returns names, ages for all women from the 
 
 | Exercise 02: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex02.sql` |
+| Solution file | `ex02.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 
@@ -92,7 +92,7 @@ Please make 2 syntax different select statements which return a list of pizzeria
 
 | Exercise 03: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex03.sql` |
+| Solution file | `ex03.sql` |
 | **Allowed** |
 | Language | ANSI |
 
@@ -102,7 +102,7 @@ Please make a select statement that returns the person identifiers (without dupl
 
 | Exercise 04: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex04.sql` |
+| Solution file | `ex04.sql` |
 | **Allowed** |
 | Language | ANSI |
 
@@ -117,7 +117,7 @@ Please pay attention to the quotation marks in your formula!
 
 | Exercise 05: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex05.sql` |
+| Solution file | `ex05.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 | **Denied** |
@@ -136,7 +136,7 @@ Please take a look at the pattern of internal query.
 
 | Exercise 06: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex06.sql` |
+| Solution file | `ex06.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 | **Denied** |                                           
@@ -151,7 +151,7 @@ Use the SQL construction from Exercise 05 and add a new calculated column (use c
 
 | Exercise 07: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex07.sql` |
+| Solution file | `ex07.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 
@@ -168,7 +168,7 @@ And yes... please sort a result by ‘interval_info’ column in ascending mode.
 
 | Exercise 08: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex08.sql` |
+| Solution file | `ex08.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 
@@ -178,7 +178,7 @@ Create an SQL statement that returns all columns from the `person_order` table w
 
 | Exercise 09: First steps into SQL world ||
 |-|-|
-| Files to turn-in | `ex09.sql` |
+| Solution file | `ex09.sql` |
 | **Allowed** |
 | Language | ANSI SQL |
 | **Denied** |
