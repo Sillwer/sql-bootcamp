@@ -61,7 +61,7 @@ People's visit and people's order are different entities and don't contain any c
 | Exercise 00: Let’s make UNION dance ||
 |-|-|
 | Turn-in directory | ex00 |
-| Files to turn-in | `day01_ex00.sql` |
+| Files to turn-in | `ex00.sql` |
 |**Allowed** ||
 | Language | ANSI SQL |
 
@@ -79,7 +79,7 @@ Please write a SQL statement that returns the menu identifier and pizza names fr
 | Exercise 01: UNION dance with subquery||
 |-|-|
 | Turn-in directory | ex01 |
-| Files to turn-in | `day01_ex01.sql` |
+| Files to turn-in | `ex01.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -100,7 +100,7 @@ Please modify an SQL statement from "Exercise 00" by removing the object_id colu
 | Exercise 02: Duplicates or not duplicates||
 |-|-|
 | Turn-in directory | ex02 |
-| Files to turn-in | `day01_ex02.sql` |
+| Files to turn-in | `ex02.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -114,7 +114,7 @@ Write an SQL statement that returns unique pizza names from the `menu` table and
 | Exercise 03: “Hidden” Insights ||
 |-|-|
 | Turn-in directory | ex03 |
-| Files to turn-in | `day01_ex03.sql` |
+| Files to turn-in | `ex03.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -137,7 +137,7 @@ Write an SQL statement that returns common rows for attributes order_date, perso
 | Exercise 04: Difference? Yep, let's find the difference between multisets. ||
 |-|-|
 | Turn-in directory | ex04 |
-| Files to turn-in | `day01_ex04.sql` |
+| Files to turn-in | `ex04.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -151,7 +151,7 @@ Please write a SQL statement that returns a difference (minus) of person_id colu
 | Exercise 05: Did you hear about Cartesian Product? ||
 |-|-|
 | Turn-in directory | ex05 |
-| Files to turn-in | `day01_ex05.sql` |
+| Files to turn-in | `ex05.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -169,7 +169,7 @@ Please write a SQL statement that returns all possible combinations between `per
 | Exercise 06: Lets see on “Hidden” Insights ||
 |-|-|
 | Turn-in directory | ex06 |
-| Files to turn-in | `day01_ex06.sql` |
+| Files to turn-in | `ex06.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -189,7 +189,7 @@ Let's go back to Exercise #03 and modify our SQL statement to return person name
 | Exercise 07: Just make a JOIN ||
 |-|-|
 | Turn-in directory | ex07 |
-| Files to turn-in | `day01_ex07.sql` |
+| Files to turn-in | `ex07.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -208,7 +208,7 @@ Write an SQL statement that returns the order date from the `person_order` table
 | Exercise 08: Migrate JOIN to NATURAL JOIN ||
 |-|-|
 | Turn-in directory | ex08 |
-| Files to turn-in | `day01_ex08.sql` |
+| Files to turn-in | `ex08.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | SQL Syntax Construction | `NATURAL JOIN` |
@@ -223,7 +223,7 @@ Please rewrite a SQL statement from Exercise #07 by using NATURAL JOIN construct
 | Exercise 09: IN versus EXISTS ||
 |-|-|
 | Turn-in directory | ex09 |
-| Files to turn-in | `day01_ex09.sql` |
+| Files to turn-in | `ex09.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -235,7 +235,7 @@ Write 2 SQL statements that return a list of pizzerias that have not been visite
 | Exercise 10: Global JOIN ||
 |-|-|
 | Turn-in directory | ex10 |
-| Files to turn-in | `day01_ex10.sql` |
+| Files to turn-in | `ex10.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
