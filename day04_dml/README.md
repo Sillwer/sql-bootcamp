@@ -64,7 +64,7 @@ Persons' visit and persons' order are different entities and don't contain any c
 
 | Exercise 00: Let’s find appropriate prices for Kate ||
 |-|-|
-| Solution files | `ex00.sql` |
+| Solution file | `ex00.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -82,7 +82,7 @@ Please write a SQL statement that returns a list of pizza names, pizza prices, p
 
 | Exercise 01: Let’s find forgotten menus||
 |-|-|
-| Solution files | `ex01.sql` |
+| Solution file | `ex01.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -101,7 +101,7 @@ Find all menu identifiers that are not ordered by anyone. The result should be s
 
 | Exercise 02: Let’s find forgotten pizza and pizzerias||
 |-|-|
-| Solution files | `ex02.sql` |
+| Solution file | `ex02.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -118,7 +118,7 @@ Please use the SQL statement from Exercise #01 and display the names of pizzas f
 
 | Exercise 03: Let’s compare visits ||
 |-|-|
-| Solution files | `ex03.sql` |
+| Solution file | `ex03.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -135,7 +135,7 @@ Please find pizzerias that have been visited more often by women or by men. Save
 
 | Exercise 04: Let’s compare orders ||
 |-|-|
-| Solution files | `ex04.sql` |
+| Solution file | `ex04.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -150,7 +150,7 @@ Find a union of pizzerias that have orders from either women or men. In other wo
 
 | Exercise 05: Visited but did not make any order ||
 |-|-|
-| Solution files | `ex05.sql` |
+| Solution file | `ex05.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -165,7 +165,7 @@ Write an SQL statement that returns a list of pizzerias that Andrey visited but 
 
 | Exercise 06: Find price-similarity pizzas ||
 |-|-|
-| Solution files | `ex06.sql` |
+| Solution file | `ex06.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -181,7 +181,7 @@ Find the same pizza names that have the same price, but from different pizzerias
 
 | Exercise 07: Let’s cook a new type of pizza ||
 |-|-|
-| Solution files | `ex07.sql` |
+| Solution file | `ex07.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 
@@ -193,7 +193,7 @@ Please register a new pizza with the name "greek pizza" (use id = 19) with the p
 
 | Exercise 08: Let’s cook a new type of pizza with more dynamics ||
 |-|-|
-| Solution files | `ex08.sql` |
+| Solution file | `ex08.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |           
 | **Denied** ||
@@ -207,7 +207,7 @@ Please register a new pizza with the name "sicilian pizza" (whose id should be c
 
 | Exercise 09: New pizza means new visits ||
 |-|-|
-| Solution files | `ex09.sql` |
+| Solution file | `ex09.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -221,7 +221,7 @@ Please record new visits to Domino's restaurant by Denis and Irina on February 2
 
 | Exercise 10: New visits means new orders ||
 |-|-|
-| Solution files | `ex10.sql` |
+| Solution file | `ex10.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | **Denied** ||
@@ -235,7 +235,7 @@ Please register new orders from Denis and Irina on February 24, 2022 for the new
 
 | Exercise 11: “Improve” a price for clients||
 |-|-|
-| Solution files | `ex11.sql` |
+| Solution file | `ex11.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
     
@@ -247,7 +247,7 @@ Please change the price of "greek pizza" to -10% of the current value.
 
 | Exercise 12: New orders are coming!||
 |-|-|
-| Solution files | `ex12.sql` |
+| Solution file | `ex12.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
 | SQL Syntax Construction | `generate_series(...)` |
@@ -265,7 +265,7 @@ Please register new orders of all persons for "greek pizza" on February 25, 2022
 
 | Exercise 13: Money back to our customers||
 |-|-|
-| Solution files | `ex13.sql` |
+| Solution file | `ex13.sql` |
 | **Allowed** ||
 | Language | ANSI SQL |
     
