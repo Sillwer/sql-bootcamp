@@ -1,4 +1,4 @@
-# Day 02 - Piscine SQL
+# SQL basics - day 03
 
 ## _Deep diving into JOINs in SQL_
 
