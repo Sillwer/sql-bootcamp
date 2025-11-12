@@ -59,6 +59,7 @@ Resume: Today you will see how to change data based on DML language.
 
 Persons' visit and persons' order are different entities and don't contain any correlation between data. For example, a client can be in one restaurant (just looking at menu) and in this time make an order in different one by phone or by mobile application. Or another case,  just be at home and again make a call with order without any visits.
 
+<br>
 
 ## Exercise 00 — Let’s find appropriate prices for Kate
 
@@ -77,6 +78,7 @@ Please write a SQL statement that returns a list of pizza names, pizza prices, p
 | pepperoni pizza | 800 | DinoPizza | 2022-01-04 |
 | ... | ... | ... | ... |
 
+<br>
 
 ## Exercise 01 — Let’s find forgotten menus
 
@@ -96,6 +98,7 @@ Find all menu identifiers that are not ordered by anyone. The result should be s
 | 10 |
 | ... |
 
+<br>
 
 ## Exercise 02 — Let’s find forgotten pizza and pizzerias
 
@@ -113,6 +116,7 @@ Please use the SQL statement from Exercise #01 and display the names of pizzas f
 | cheese pizza | 780 | DoDo Pizza |
 | ... | ... | ... |
 
+<br>
 
 ## Exercise 03 — Let’s compare visits
 
@@ -130,6 +134,7 @@ Please find pizzerias that have been visited more often by women or by men. Save
 | Dominos |
 | ... |
 
+<br>
 
 ## Exercise 04 — Let’s compare orders
 
@@ -145,6 +150,7 @@ Find a union of pizzerias that have orders from either women or men. In other wo
 | ------ | 
 | Papa Johns | 
 
+<br>
 
 ## Exercise 05 — Visited but did not make any order
 
@@ -160,6 +166,7 @@ Write an SQL statement that returns a list of pizzerias that Andrey visited but 
 | ------ | 
 | Pizza Hut | 
 
+<br>
 
 ## Exercise 06 — Find price-similarity pizzas
 
@@ -176,6 +183,7 @@ Find the same pizza names that have the same price, but from different pizzerias
 | cheese pizza | Best Pizza | Papa Johns | 700 |
 | ... | ... | ... | ... |
 
+<br>
 
 ## Exercise 07 — Let’s cook a new type of pizza
 
@@ -188,6 +196,7 @@ Find the same pizza names that have the same price, but from different pizzerias
 Please register a new pizza with the name "greek pizza" (use id = 19) with the price of 800 rubles in the restaurant "Dominos" (pizzeria_id = 2).
 **Warning**: this exercise is likely to cause the modification of data in the wrong way. Actually, you can restore the original database model with data from the [link](materials/model.sql).
 
+<br>
 
 ## Exercise 08 — Let’s cook a new type of pizza with more dynamics
 
@@ -202,6 +211,7 @@ Please register a new pizza with the name "greek pizza" (use id = 19) with the p
 Please register a new pizza with the name "sicilian pizza" (whose id should be calculated by the formula "maximum id value + 1") with the price of 900 rubles in the restaurant "Dominos" (please use internal query to get the identifier of the pizzeria).
 **Warning**: This exercise is likely to cause the modification of data in the wrong way. Actually, you can restore the original database model with data from the link in the "Rules of the day" section and replay the script from Exercise 07.
 
+<br>
 
 ## Exercise 09 — New pizza means new visits
 
@@ -216,6 +226,7 @@ Please register a new pizza with the name "sicilian pizza" (whose id should be c
 Please record new visits to Domino's restaurant by Denis and Irina on February 24, 2022.
 **Warning**: This exercise is likely to cause the modification of data in the wrong way. Actually, you can restore the original database model with data from the link in the "Rules of the Day" section and replay the script from Exercises 07 and 08.
 
+<br>
 
 ## Exercise 10 — New visits means new orders
 
@@ -230,6 +241,7 @@ Please record new visits to Domino's restaurant by Denis and Irina on February 2
 Please register new orders from Denis and Irina on February 24, 2022 for the new menu with "sicilian pizza".
 **Warning**: This exercise will probably cause you to change data in the wrong way. Actually, you can restore the original database model with data from the link in the Rules of the Day section and replay the script from Exercises 07, 08 and 09.
 
+<br>
 
 ## Exercise 11 — “Improve” a price for clients
 
@@ -242,6 +254,7 @@ Please register new orders from Denis and Irina on February 24, 2022 for the new
 Please change the price of "greek pizza" to -10% of the current value.
 **Warning**: This exercise is likely to cause you to change data in the wrong way. Actually, you can rebuild the original database model with data from the link in the "Rules of the Day" section and replay the script from Exercises 07, 08, 09, and 10.
 
+<br>
 
 ## Exercise 12 — New orders are coming!
 
@@ -260,6 +273,7 @@ Please change the price of "greek pizza" to -10% of the current value.
 Please register new orders of all persons for "greek pizza" on February 25, 2022.
 **Warning**: This exercise will probably cause you to change data in the wrong way. Actually, you can restore the original database model with data from the link in the "Rules of the Day" section and replay the script from Exercises 07, 08, 09, 10 and 11.
 
+<br>
 
 ## Exercise 13 — Money back to our customers
 

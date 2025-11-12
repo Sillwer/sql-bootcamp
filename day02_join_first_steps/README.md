@@ -55,6 +55,7 @@ Resume: Today you will see how to get needed data based on sets constructions an
 
 People's visit and people's order are different entities and don't contain any correlation between data. For example, a customer can be in a restaurant (just looking at the menu) and in that time place an order in another restaurant by phone or mobile application. Or another case, just be at home and again make a call with order without any visits.
 
+<br>
 
 ## Exercise 00 - Let’s make UNION dance
 
@@ -72,6 +73,7 @@ Please write a SQL statement that returns the menu identifier and pizza names fr
 | 1 | cheese pizza |
 | ... | ... |
 
+<br>
 
 ## Exercise 01 - UNION dance with subquery
 
@@ -92,6 +94,7 @@ Please modify an SQL statement from "Exercise 00" by removing the object_id colu
 | cheese pizza |
 | ... |
 
+<br>
 
 ## Exercise 02 - Duplicates or not duplicates
 
@@ -105,6 +108,7 @@ Please modify an SQL statement from "Exercise 00" by removing the object_id colu
  
 Write an SQL statement that returns unique pizza names from the `menu` table and sorts them by the pizza_name column in descending order. Please note the Denied section.
 
+<br>
 
 ## Exercise 03 - “Hidden” Insights
 
@@ -127,6 +131,7 @@ Write an SQL statement that returns common rows for attributes order_date, perso
 | 2022-01-04 | 3 |
 | ... | ... |
 
+<br>
 
 ## Exercise 04 - Difference? Yep, let's find the difference between multisets.
 
@@ -140,6 +145,7 @@ Write an SQL statement that returns common rows for attributes order_date, perso
 
 Please write a SQL statement that returns a difference (minus) of person_id column values while saving duplicates between `person_order` table and `person_visits` table for order_date and visit_date are for January 7, 2022.
 
+<br>
 
 ## Exercise 05 - Did you hear about Cartesian Product?
 
@@ -157,6 +163,7 @@ Please write a SQL statement that returns all possible combinations between `per
 | 1 | Anna | 16 | female | Moscow | 2 | Dominos | 4.3 |
 | ... | ... | ... | ... | ... | ... | ... | ... |
 
+<br>
 
 ## Exercise 06 - Lets see on “Hidden” Insights
 
@@ -175,6 +182,7 @@ Let's go back to Exercise #03 and modify our SQL statement to return person name
 | 2022-01-01 | Andrey |
 | ... | ... |
 
+<br>
 
 ## Exercise 07 - Just make a JOIN
 
@@ -194,6 +202,7 @@ Write an SQL statement that returns the order date from the `person_order` table
 | 2022-01-01 | Anna (age:16) |
 | ... | ... |
 
+<br>
 
 ## Exercise 08 - Migrate JOIN to NATURAL JOIN
 
@@ -208,6 +217,7 @@ Write an SQL statement that returns the order date from the `person_order` table
 
 Please rewrite a SQL statement from Exercise #07 by using NATURAL JOIN construction. The result must be the same like for Exercise #07.
 
+<br>
 
 ## Exercise 09 - IN versus EXISTS
 
@@ -219,6 +229,7 @@ Please rewrite a SQL statement from Exercise #07 by using NATURAL JOIN construct
 
 Write 2 SQL statements that return a list of pizzerias that have not been visited by people using IN for the first and EXISTS for the second.
 
+<br>
 
 ## Exercise 10 - Global JOIN
 
