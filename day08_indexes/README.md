@@ -1,4 +1,4 @@
-# SQL basics - day 06
+# SQL basics - day 08
 
 ## _I improved my SQL Query! Please, provide proof!_
 

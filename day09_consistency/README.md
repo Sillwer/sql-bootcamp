@@ -1,4 +1,4 @@
-# SQL basics - day 07
+# SQL basics - day 09
 
 ## _Let's improve customer experience_
 
